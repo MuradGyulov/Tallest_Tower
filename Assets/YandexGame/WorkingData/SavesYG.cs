@@ -14,7 +14,7 @@ namespace YG
 
         // Ваши сохранения
         public bool soundsIsON = true;
-        public int highestPosition;
+        public int highestPosition = 10;
         // ...
     }
 }
